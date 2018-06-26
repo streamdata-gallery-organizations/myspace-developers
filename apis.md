@@ -5,7 +5,7 @@ description: This is a repository of myspace developers APIs, self-contained as 
   operations.
 image: http://template.streamdata.gallery/assets/myspace-developers.png
 created: "2018-02-24"
-modified: "2018-06-25"
+modified: "2018-06-26"
 url: http://myspace-developers.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
