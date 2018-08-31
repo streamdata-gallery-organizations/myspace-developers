@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - MySpace Developers",
+	"description": "This is a repository of myspace developers APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/myspace-developers.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://myspace-developers.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "MySpace Developers",
+			"x-api-slug": "myspace-developers",
+			"description": "AskMyspace: http://askmyspace.com  Twitter: http://twitter.com/Myspace  Instagram: http://instagram.com/Myspace  Tumblr: http://myspace.tumblr.com  YouTube: http://www.youtube.com/Myspace",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1619-myspace-developers.jpg",
+			"humanURL": "http://wiki.developer.myspace.com/index.php?title=Category:RESTful_API",
+			"baseURL": "https://api.myspace.com//",
+			"tags": "MySpace Developers",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/myspace-developers/master/_listings/myspace-developers/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "MySpace Developers",
+	"include": [
+		{
+			"name": "MySpace Developers",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/myspace-developers/master/_listings/myspace-developers/apis.yaml"
+		}
+	]
+}
